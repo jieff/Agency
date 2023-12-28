@@ -8,7 +8,7 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             {/* Olá, eu sou Jieff
             <br className="hidden lg:inline-block" />  */}
-            Transformando Ideias em Experiências Digitais Inovadoras
+            Transformando ideias em experiências digitais inovadoras
           </h1>
           <p className="mb-8 leading-relaxed">
           Nossa agência é o lugar onde as visões se tornam tangíveis. Transformamos o abstracto em realidade digital. Seja uma ideia para um novo aplicativo, um conceito para uma plataforma web ou uma visão para uma experiência interativa, estamos aqui para fazer essa jornada de transformação acontecer</p>
